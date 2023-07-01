@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aera23
 - 👀 I’m interested in Coding PHP
-- 🌱 I’m currently learning Diploma in IT
+- 🌱 I’m aiming for a Diploma in IT
 - 💞️ Feel free to share/clone/make pull request
 - 📫 aera23@protonmail.com
 
